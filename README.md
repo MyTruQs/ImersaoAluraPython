@@ -52,7 +52,7 @@ Nesta aula, eu aprendi:
 O desafia da aula 4 foi:
 - Pesquisar o que é uma tupla em Python;
 - Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance
-![image](https://github.com/MyTruQs/ImersaoAluraPython/issues/1#issuecomment-2027708799)
+![image](https://github.com/MyTruQs/ImersaoAluraPython/assets/66857190/af5e975a-611c-485f-bfac-f403a2188730)
 
 ### Aula 5
 Nesta aula, eu aprendi:
