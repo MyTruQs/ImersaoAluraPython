@@ -13,7 +13,7 @@ O desafia da aula 1 foi:
 - Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
 - Pegar via Chat GPT as faixas de idade;
 - Pedir para o GPT gerar a fórmula IF para as faixas de idade
-![image](https://github.com/MyTruQs/ImersaoAluraPython/issues/1#issue-2215946305)
+![image](https://github.com/MyTruQs/ImersaoAluraPython/assets/66857190/8d2a52af-3046-4eac-9724-0d5b7630fb94)
 
 ### Aula 2
 Nesta aula, eu aprendi:
